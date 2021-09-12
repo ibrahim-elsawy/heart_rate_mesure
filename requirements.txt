@@ -7,8 +7,8 @@ clang==5.0
 click==8.0.1
 colorama==0.4.4
 cycler==0.10.0
-dlib @ file:///D:/bld/dlib_1617441823598/work
 docopt==0.6.2
+dlib==19.22.1 
 Flask==2.0.1
 flatbuffers==1.12
 gast==0.4.0
