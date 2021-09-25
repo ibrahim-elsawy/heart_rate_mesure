@@ -3,8 +3,8 @@ import numpy as np
 import time
 import sys
 from imutils import face_utils
-from face_utilities import Face_utilities
-from signal_processing import Signal_processing
+from utils.face_utilities import Face_utilities
+from utils.signal_processing import Signal_processing
 
 from pyqtgraph.Qt import QtGui, QtCore
 import pyqtgraph as pg
