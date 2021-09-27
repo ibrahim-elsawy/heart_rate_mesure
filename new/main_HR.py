@@ -6,8 +6,6 @@ from imutils import face_utils
 from utils.face_utilities import Face_utilities
 from utils.signal_processing import Signal_processing
 
-from pyqtgraph.Qt import QtGui, QtCore
-import pyqtgraph as pg
 
 
 
